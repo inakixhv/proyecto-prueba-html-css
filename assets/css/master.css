@@ -73,8 +73,9 @@ ul.izquierda li a, ul.derecha li a{
 
 ul.izquierda li a:hover, ul.derecha li a:hover{
     border-radius: 20px;
-    box-shadow: 0px 0px 5px;
-    text-transform: uppercase;
+    box-shadow: 0px 0px 10px white;
+    /* text-transform: uppercase; */
+
 }
 
 .titulo{
